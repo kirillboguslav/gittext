@@ -1,5 +1,5 @@
 ## Мой суперкот Пусик
 
-[Это мой кот](https://petcube.com/blog/content/images/2017/08/kitten-supplies-cover.jpg "Мой супер котяра")
+![Это мой кот](https://petcube.com/blog/content/images/2017/08/kitten-supplies-cover.jpg "Мой супер котяра")
 
 Я иногда завидую своему коту, все что он делает это спит, ест иногда муркочит и срет где попало ))))
